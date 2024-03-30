@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>
+        This means that I was deployed to AWS.
+      </p>
     </div>
   );
 }
